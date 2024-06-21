@@ -20,9 +20,9 @@ Adicionalmente vou citar algumas curiosidades sobre mim...
 
 Segue meu linkedIn para avaliação: www.linkedin.com/in/amanda-r-evaristo
 
-## Objetivo deste repositório: Documentação sobre o TCC: Detecção de Fraudes Financeiras através do uso de Árvores de Decisão e Random Forest, para o MBA Data & Analytics! 👋
+## Objetivo deste repositório: Documentação sobre o TCC Detecção de Fraudes Financeiras - MBA Data & Analytics! 👋
 
-💬 Criei esse repositório para registrar analises, codigos e conteudos complementares importantes que estou usando e consultando durante a realizacao do TCC sobre Deteccao de Fraudes de Cartão de Crédito, necessário para a conclusão do MBA!
+💬 Criei esse repositório para registrar analises, codigos e conteudos complementares importantes que estou usando e consultando durante a realizacao do TCC sobre Detecção de Fraudes Financeiras através do uso de Árvores de Decisão e Random Forest, necessário para a conclusão do MBA!
 
 ✨ A seguir nessa página você encontra os links para as pastas com os Conteúdos elaborados até agora!!
 
