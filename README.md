@@ -31,7 +31,7 @@ Aqui estão os links das atividades e códigos de cada sprint do projeto de TCC.
 ### Códigos
 
 - **Tratamento de Dados (incluindo o Pré-processamento de Dados, Modelagem Preliminar Otimização de Modelos):**  
-    [Códigos Desenvolvidos em Python](https://github.com/amanda8792/mba_usp_esalq/tree/main/codigos_tratamentos/)
+    [Códigos Desenvolvidos em Python](https://github.com/amanda8792/mba_usp_esalq/tree/main/codigos/)
   
 ### Documentação sobre Fraudes Financeiras
 
