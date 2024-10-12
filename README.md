@@ -28,7 +28,7 @@ O repositório contém scripts de tratamento de dados, implementação de modelo
 
 Aqui estão os links das atividades e códigos de cada sprint do projeto de TCC.
 
-### Sprints e Códigos
+### Códigos
 
 - **Tratamento de Dados (incluindo o Pré-processamento de Dados, Modelagem Preliminar Otimização de Modelos):**  
   [Códigos Desenvolvidos em Python](https://github.com/amanda8792/curso_compass/tree/master/SPRINT%2001)
