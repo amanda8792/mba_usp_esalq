@@ -31,11 +31,11 @@ Aqui estão os links das atividades e códigos de cada sprint do projeto de TCC.
 ### Códigos
 
 - **Tratamento de Dados (incluindo o Pré-processamento de Dados, Modelagem Preliminar Otimização de Modelos):**  
-  [Códigos Desenvolvidos em Python](https://github.com/amanda8792/curso_compass/tree/master/SPRINT%2001)
+  [Códigos Desenvolvidos em Python]([https://github.com/amanda8792/mba_usp_esalq/tree/main/codigos_tratamentos])
   
 ### Documentação sobre Fraudes Financeiras
 
 - **Bibliografias sobre técnicas de detecção de fraudes e arquivos relacionados: **  
-  [Link para os arquivos](https://github.com/amanda8792/)
+  [Link para os arquivos]([https://github.com/amanda8792/mba_usp_esalq/tree/main/bibliografia])
 
 Este repositório será atualizado ao longo do desenvolvimento do TCC, então fique à vontade para explorar os códigos, fazer sugestões e contribuir! 👩‍💻
