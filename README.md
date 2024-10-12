@@ -1,45 +1,41 @@
-## Repositório MBA Data & Analytics - USP Pecege
+## Repositório TCC - Detecção de Fraudes Bancárias
 
-### Olá, me chamo Amanda! 👋
+### Olá! 👋
 
-Vou me apresentar e falar um pouco sobre mim para nos conhecermos melhor!!✨
+Me chamo Amanda e estou compartilhando aqui o repositório de códigos e arquivos utilizados no meu TCC sobre Detecção de Fraudes Bancárias. Esse trabalho faz parte do **MBA em Data & Analytics - USP Pecege**, onde estou utilizando técnicas avançadas de Ciências de Dados para estudar e implementar modelos preditivos que ajudem a detectar fraudes no setor bancário.
 
-Sou natural de Campinas/SP, tenho 30 anos, formada em Física (UNICAMP) e atualmente estou cursando 02 cursos:
-- Ciências de Dados (UNIVESP), 6° Semestre
-- MBA Data & Analytics - USP Pecege
+Sou formada em Física pela UNICAMP e atualmente curso o **8º semestre de Ciência de Dados na UNIVESP**, além do MBA. Minha experiência inclui 8 anos como Metrologista no CPQD e atualmente trabalho como Engenheira de Dados em Gestão ESG no Itaú Unibanco, onde desenvolvo soluções automatizadas para análise de grandes volumes de dados, construção de dashboards e pipelines de dados para tomada de decisões estratégicas.
 
-Atuei por 08 anos como Metrologista (CPQD - Campinas) e atualmente trabalho com Engenharia de Dados em Gestao ESG (Itaú Unibanco) realizando análise e tratamento crítico de bases de informações com processos automatizados, construção de dashboards inovadores, Pipeline de dados de investimentos a fim de responder questões de negócios.
-
-Adicionalmente vou citar algumas curiosidades sobre mim...
-
-- Sou Empolgada por novas tecnologias (AWS)
-- Considero-me Organizada e Dedicada
-- Sou mãe do Tito (esse gatinho abaixo)
+Além do meu foco em tecnologia, também sou mãe do Tito, meu gatinho, que sempre me acompanha nas horas de trabalho! 🐱
 
 ![Tito](images/titinho.PNG)
 
-Segue meu linkedIn para avaliação: www.linkedin.com/in/amanda-r-evaristo
+### Objetivo deste Repositório
 
-## Objetivo deste repositório: Documentação sobre o TCC Detecção de Fraudes Financeiras - MBA Data & Analytics! 👋
+💬 Este repositório foi criado para armazenar e compartilhar os **análises**, **códigos** e **conteúdos complementares** que estou utilizando no desenvolvimento do meu TCC. O objetivo central do trabalho é a detecção de fraudes financeiras, utilizando técnicas como **Árvores de Decisão** e **Random Forest**, com a intenção de identificar padrões e comportamentos suspeitos em grandes volumes de transações bancárias.
 
-💬 Criei esse repositório para registrar analises, codigos e conteudos complementares importantes que estou usando e consultando durante a realizacao do TCC sobre Detecção de Fraudes Financeiras através do uso de Árvores de Decisão e Random Forest, necessário para a conclusão do MBA!
+O repositório contém scripts de tratamento de dados, implementação de modelos de machine learning, e documentação das análises realizadas ao longo do projeto.
 
-✨ A seguir nessa página você encontra os links para as pastas com os Conteúdos elaborados até agora!!
+### Tecnologias Utilizadas:
+- Python (pandas, scikit-learn, matplotlib, etc.)
+- GIT para controle de versão e colaboração
+- Técnicas de Machine Learning (Árvores de Decisão, Random Forest)
+- Tratamento de dados e visualização
 
+✨ Abaixo estão os links para as pastas organizadas por sprint, com todos os conteúdos e análises desenvolvidas até o momento:
 
-# CONTEÚDOS (ATUALIZAR)
+## CONTEÚDOS
 
-Segue abaixo links e pastas referentes as atividades de cada sprint. 
+Aqui estão os links das atividades e códigos de cada sprint do projeto de TCC.
 
-## CÓDIGO TCC
+### Códigos
 
-Pasta com conteúdo da sprint neste link: https://github.com/amanda8792/curso_compass/tree/master/SPRINT%2001
+- **Tratamento de Dados (incluindo o Pré-processamento de Dados, Modelagem Preliminar Otimização de Modelos):**  
+  [Códigos Desenvolvidos em Python](https://github.com/amanda8792/curso_compass/tree/master/SPRINT%2001)
+  
+### Documentação sobre Fraudes Financeiras
 
-### Conteúdo sobre Fraudes 
-- Exercícios de GIT disponível neste link (ATUALIZAR):
-  https://github.com/amanda8792/
-- Anotações sobre GIT, veja este link: Link (ATUALIZAR):
-  https://github.com/amanda8792/
-### Livros 👋
-- Livros, veja nesse link: https (ATUALIZAR)://github.com/amanda8792/
-(complementar com os certificados: Curso LINUX) 
+- **Bibliografias sobre técnicas de detecção de fraudes e arquivos relacionados: **  
+  [Link para os arquivos](https://github.com/amanda8792/)
+
+Este repositório será atualizado ao longo do desenvolvimento do TCC, então fique à vontade para explorar os códigos, fazer sugestões e contribuir! 👩‍💻
