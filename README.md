@@ -36,6 +36,6 @@ Aqui estão os links das atividades e códigos de cada sprint do projeto de TCC.
 ### Documentação sobre Fraudes Financeiras
 
 - **Bibliografias sobre técnicas de detecção de fraudes e arquivos relacionados: **  
-    [Link para os arquivos](https://github.com/amanda8792/mba_usp_esalq/tree/main/bibliografia)7
+    [Link para os arquivos](https://github.com/amanda8792/mba_usp_esalq/tree/main/bibliografia)
   
 Este repositório será atualizado ao longo do desenvolvimento do TCC, então fique à vontade para explorar os códigos, fazer sugestões e contribuir! 👩‍💻
